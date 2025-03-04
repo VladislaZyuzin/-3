@@ -395,3 +395,5 @@ jobs:
 
 ![image](https://github.com/user-attachments/assets/43223e55-6d47-4423-a905-ad6b16003345)
 
+Вернуться в начало: https://github.com/VladislaZyuzin/ITMO_Cloud_Tech_Labas/tree/main
+
